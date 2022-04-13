@@ -12,4 +12,4 @@ purpose of making sense of information in a meaningful and productive way
 • Deep Understanding of data warehouse and data mining techniques
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src= "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" ;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda"  alt="anaconda" width="40" height="40"/>&nbsp;
