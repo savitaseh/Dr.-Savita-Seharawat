@@ -11,3 +11,4 @@ SQL, SAS, Power BI, and Mathematica to analyze data and identify trends for the
 purpose of making sense of information in a meaningful and productive way
 • Deep Understanding of data warehouse and data mining techniques
 ### :hammer_and_wrench: Languages and Tools :
+https://scikit-learn.org/stable/
