@@ -13,3 +13,4 @@ purpose of making sense of information in a meaningful and productive way
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda"  alt="anaconda" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"title="Python"  alt="Python" width="40" height="40"/>&nbsp;
