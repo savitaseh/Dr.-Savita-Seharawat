@@ -15,3 +15,4 @@ purpose of making sense of information in a meaningful and productive way
 <img src= "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda"  alt="anaconda" width="40" height="40"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio"  alt="rstudio" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty"  alt="putty" width="40" height="40"/>&nbsp;
